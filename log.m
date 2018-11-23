@@ -1,0 +1,1 @@
+/* This is a placeholder for the log.h file, so the compiler won't cry. */
